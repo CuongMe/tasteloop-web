@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" aria-labelledby="title" role="img">
-  <title>TasteLoop Toolbox (white)</title>
-  <g fill="#ffffff">
-    <path d="M8 5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1h1.5A2.5 2.5 0 0 1 20 8.5v2.8h-5.5V10h-5v1.3H4V8.5A2.5 2.5 0 0 1 6.5 6H8V5zm2 1h4V5a1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1v1z"/>
-    <path d="M3 11.8V18a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-6.2H14.5V13a.75.75 0 0 1-.75.75h-3.5A.75.75 0 0 1 9.5 13v-1.2H3z"/>
-  </g>
-</svg>
