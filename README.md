@@ -25,12 +25,6 @@ Static front-end prototype — **no APIs** and **no backend**.
 ## ⚠️ Prototype Note
 The images shown on the pages **do not reliably match** the labels/titles displayed. This is intentional for the prototype stage: visual placeholders were used to test layout and interactions, not final content accuracy.
 
-## ▶️ How to Run
-- Open `index.html` directly in your browser, **or**
-- Use a local server (recommended):
-  - VS Code → install **Live Server**
-  - Right-click `index.html` → **Open with Live Server**
-
 ## 🧭 Pages
 **Home • Recipes • Learning • FlavorMixer • About**
 
