@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Taste Loop logo" width="72" />
+  <img src="assets/logo.png" alt="Taste Loop logo" width="250" />
 </div>
 
 <h1 align="center">Taste Loop 🍽️</h1>
